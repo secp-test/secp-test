@@ -1,5 +1,0 @@
-2018-05-31 13:31:37  INFO  Arguments:-c 1 Normal, spend time 0.079s
-2018-05-31 13:31:37  INFO  Arguments:-c 5 Normal, spend time 0.016s
-2018-05-31 13:31:37  ERROR  Sudoku.txt have repeated sudoku panels!
-2018-05-31 13:31:37  ERROR  Sudoku.txt have repeated sudoku panels!
-2018-05-31 13:31:38  ERROR  Sudoku.txt have repeated sudoku panels!
