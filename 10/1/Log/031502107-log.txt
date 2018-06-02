@@ -1,1 +1,7 @@
-2018-06-02 22:11:00  ERROR  未能找到路径“E:\Program\graduation-project\server\pkg\github\10\1\Projects\031502107”的一部分。
+2018-06-02 22:11:54  INFO  Arguments:-c 1 Normal, spend time 0.021s
+2018-06-02 22:11:54  INFO  Arguments:-c 5 Normal, spend time 0.006s
+2018-06-02 22:11:54  INFO  Arguments:-c 100 Normal, spend time 0.007s
+2018-06-02 22:11:54  INFO  Arguments:-c 500 Normal, spend time 0.007s
+2018-06-02 22:11:54  INFO  Arguments:-c 1000 Normal, spend time 0.009s
+2018-06-02 22:11:57  INFO  Arguments:-c 50000 Normal, spend time 0.087s
+2018-06-02 22:12:06  ERROR  Sudoku.txt have repeated sudoku panels!
